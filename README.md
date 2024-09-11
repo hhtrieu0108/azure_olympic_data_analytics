@@ -9,3 +9,6 @@
 
 ## My Azure Data Factory Pipeline For This Project
 ![azure-data-factory-pipeline](images/azure-data-factory-pipeline.png)
+
+## And This Is The Result Of The Pipeline
+![pipeline_result](images/pipeline_result.png)
